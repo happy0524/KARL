@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-*/
+data/
+results/
+tmp/
+*.pdf
+*.pt
+*.npy
+*.npz
+/LICENSE

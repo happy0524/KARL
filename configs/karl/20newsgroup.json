@@ -1,0 +1,13 @@
+{
+  "dataset": "20newsgroup",
+  "seed": 42,
+  "knn_k": 20,
+  "alpha": 0.2,
+  "hidden_dim": 128,
+  "embedding_dim": 64,
+  "learning_rate": 0.01,
+  "epochs": 200,
+  "device": "cpu",
+  "threads": 4,
+  "n_init": 20
+}

@@ -1,0 +1,6 @@
+# 현재 .venv에서 검증한 최소 의존성. CLARE requirements.txt는 변경하지 않는다.
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.2
+torch==2.6.0
+threadpoolctl>=3.1
